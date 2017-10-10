@@ -1,6 +1,6 @@
 # logistic-regression
 
-This is an implementation of logistic regression in Python using only NumPy. Maximum liklihood estimation is performed using the method of [iteratively re-weighted least squares (IRLS)](https://en.wikipedia.org/wiki/Iteratively_reweighted_least_squares).
+This is an implementation of logistic regression in Python using only NumPy. Maximum likelihood estimation is performed using the method of [iteratively re-weighted least squares (IRLS)](https://en.wikipedia.org/wiki/Iteratively_reweighted_least_squares).
 
 For a detailed walkthrough of the algorithm and math behind logistic regression, see the included Jupyter notebook.
 
@@ -47,5 +47,5 @@ array([ 0.96195407,  0.97240465,  0.35067621,  0.02940531,  0.56176085,
 
 ##### Sources
 1. [*Machine Learning: A Probabilistic Perspective* by Kevin R Murphy](https://www.cs.ubc.ca/~murphyk/MLbook/)
-2. [GLM Lecture Notes by Germán Rodríguez](http://data.princeton.edu/wws509/notes)
-3. [Logistic Regression and Newton’s Method Lecture Notes by Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/402/lectures/14-logistic-regression/lecture-14.pdf)
+2. [GLM Lecture Notes by GermÃ¡n RodrÃ­guez](http://data.princeton.edu/wws509/notes)
+3. [Logistic Regression and Newtonâ€™s Method Lecture Notes by Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/402/lectures/14-logistic-regression/lecture-14.pdf)
