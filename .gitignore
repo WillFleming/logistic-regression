@@ -1,0 +1,7 @@
+# Jupyter Notebook checkpoints #
+###################
+.ipynb_checkpoints/
+
+# Python source files #
+###################
+*.pyc
