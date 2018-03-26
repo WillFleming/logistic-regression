@@ -2,7 +2,7 @@
 
 This is an implementation of logistic regression in Python using only NumPy. Maximum likelihood estimation is performed using the method of [iteratively re-weighted least squares (IRLS)](https://en.wikipedia.org/wiki/Iteratively_reweighted_least_squares).
 
-For a detailed walkthrough of the algorithm and math behind logistic regression, see the included Jupyter notebook.
+For a detailed walkthrough of the algorithm and math behind logistic regression, [view the Jupyter notebook](https://nbviewer.jupyter.org/github/WillFleming/logistic-regression/blob/master/Logistic-Regression-with-IRLS.ipynb).
 
 To simply run the regression:
 
